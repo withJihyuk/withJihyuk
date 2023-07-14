@@ -10,6 +10,9 @@
  > 📫 해당 [링크](https://litt.ly/wh3nilvyou)의 연락 수단을 통해 연락이 가능해요 :)
 >
  > 🐱 고양이를 좋아해요.
+
+<div align="center"> 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</div>
 
