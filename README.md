@@ -1,16 +1,12 @@
+<div align="center">
 ### Hi there 👋
 
-<!--
-**sh4lluloveme/sh4lluloveme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🐱 제 깃허브에 오신걸 환영합니다.**
+- 🔭 저는 지금 @Feather-IT 에서 활동하고 있어요.
+- 🌱 저는 현재 프론트와 백엔드에 관해 배우고 있어요.
+- 🚫 현재 구직중이지 않아요.
+- 📫 해당 [링크](https://litt.ly/wh3nilvyou)를 통해 연락이 가능해요 :)
+- 🐱 고양이를 좋아해요.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
