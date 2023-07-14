@@ -7,7 +7,7 @@
 > 
  >  🚫 현재 구직 중이지 않아요.
 > 
- > 📫 해당 [링크](https://litt.ly/wh3nilvyou)를 통해 연락이 가능해요 :)
+ > 📫 해당 [링크](https://litt.ly/wh3nilvyou)의 연락 수단을 통해 연락이 가능해요 :)
 >
  > 🐱 고양이를 좋아해요.
 <!--START_SECTION:waka-->
