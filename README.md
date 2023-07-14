@@ -12,6 +12,8 @@
  > 🐱 고양이를 좋아해요.
 
 <div align="center"> 
+ <a href="https://litt.ly/wh3nilvyou">
+    <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="32" />
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </div>
