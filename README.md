@@ -14,6 +14,7 @@
 <div align="center"> 
  <a href="https://litt.ly/wh3nilvyou">
     <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="32" />
+ </a>
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2026%20mins-blue)
