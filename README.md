@@ -35,7 +35,7 @@ Lee.**
 <details>
   <summary>github-profile-trophy (click me)</summary>
   
-![](https://github-profile-trophy.vercel.app/?username=sh4lluloveme&row=1&column=8&theme=nord)
+![](https://github-profile-trophy.vercel.app/?username=sverdev&row=1&column=8&theme=nord)
   
 </details>
 <details>
