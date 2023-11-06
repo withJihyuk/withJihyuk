@@ -9,7 +9,7 @@ Lee.**
 17yo Korean backend programmer & DevOps Starter.\
 :envelope: mailto:wh3n_gg@kakao.com
 /
-:link: not available
+:link: [myself.sver.dev](https://myself.sver.dev)
 
 ---
 
