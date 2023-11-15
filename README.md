@@ -26,8 +26,8 @@ Lee.**
     { "name": "TypeScript", "percent": 9 }
   ],
   "team" : "Gwangju Software Meister High School, Feather-IT",
-  "funFacts": {
-    "nothing": nothing
+  "favorite": {
+    "cat": "🐈"
   }
 }
 ```
