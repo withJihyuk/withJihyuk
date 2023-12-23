@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a href="https://litt.ly/wh3nilvyou">
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50px" align="right">
 </a>
 
