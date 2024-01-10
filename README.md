@@ -24,7 +24,7 @@ Lee.**
     { "name": "Java", "percent": 10.59 },
     { "name": "TypeScript", "percent": 9 }
   ],
-  "team" : "Gwangju Software Meister High School, Feather-IT",
+  "team" : "Gwangju Software Meister High School, GSM-AING",
   "favorite": {
     "cat": "🐈"
   }
