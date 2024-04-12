@@ -6,7 +6,7 @@
 Lee.**
 
 17yo Korean backend programmer & DevOps Starter.\
-✉️ mailto:wh3n_gg@kakao.com
+✉️ mailto:s23066@gsm.hs.kr
 / 
 🔗 [blog.sver.dev](https://blog.sver.dev)
 
