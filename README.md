@@ -16,13 +16,11 @@ Lee.**
 {
   "name": "Jihyuk Lee",
   "birthYear": 2007,
-  "techStack": ["Flutter", "Dart", "Python", "Node.js", "MongoDB", "OCP"],
+  "techStack": ["Flutter", "Dart", "Python", "MongoDB", "OCP"],
   "locale": "ko-KR, Korea",
   "preferLanguages": [
     { "name": "Python", "percent": 50 },
-    { "name": "JavaScript", "percent": 30.41 },
-    { "name": "TypeScript", "percent": 9 }
-    { "name": "Dart", "percent": 10.59 }
+    { "name": "Dart", "percent": 50 }
   ],
   "team" : "Gwangju Software Meister High School, GSM-AING",
   "favorite": {
