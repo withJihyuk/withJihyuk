@@ -5,10 +5,8 @@
 **Jihyuk\
 Lee.**
 
-17yo Korean backend programmer & DevOps Starter.\
-✉️ mailto:s23066@gsm.hs.kr
-/ 
-🔗 [blog.sver.dev](https://blog.sver.dev)
+17yo Korean Flutter Developer & DevOps Starter.\
+✉️ <s23066@gsm.hs.kr>
 
 ---
 
