@@ -5,7 +5,7 @@
 **Jihyuk\
 Lee.**
 
-17yo Korean Flutter Developer & DevOps Starter.\
+18yo Korean Flutter Developer & DevOps Starter.\
 ✉️ <s23066@gsm.hs.kr>
 
 ---
