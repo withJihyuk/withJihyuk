@@ -20,7 +20,7 @@ Lee.**
     { "name": "Python", "percent": 50 },
     { "name": "Dart", "percent": 50 }
   ],
-  "team" : "Gwangju Software Meister High School, GSM-AING",
+  "team" : "GSM-AING, DEF, ···",
   "favorite": {
     "cat": "🐈"
   }
