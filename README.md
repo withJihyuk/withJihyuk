@@ -17,8 +17,9 @@ Lee.**
   "techStack": ["Flutter", "Dart", "Python", "MongoDB", "OCP"],
   "locale": "ko-KR, Korea",
   "preferLanguages": [
-    { "name": "Python", "percent": 50 },
-    { "name": "Dart", "percent": 50 }
+    { "name": "Kotlin", "percent": 50 },
+    { "name": "Python", "percent": 25 },
+    { "name": "Dart", "percent": 25 }
   ],
   "team" : "GSM-AING, DEF, ···",
   "favorite": {
