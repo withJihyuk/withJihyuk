@@ -5,7 +5,7 @@
 **Jihyuk\
 Lee.**
 
-18yo Korean Flutter Developer & Backend Engineer.\
+19yo Korean Flutter Developer & Backend Engineer.\
 ✉️ <s23066@gsm.hs.kr>
 
 ---
@@ -14,12 +14,11 @@ Lee.**
 {
   "name": "Jihyuk Lee",
   "birthYear": 2007,
-  "techStack": ["Flutter", "Dart", "Python", "MongoDB", "OCP"],
   "locale": "ko-KR, Korea",
   "preferLanguages": [
-    { "name": "Kotlin", "percent": 50 },
-    { "name": "Python", "percent": 25 },
-    { "name": "Dart", "percent": 25 }
+    { "name": "Dart", "percent": 50 },
+    { "name": "Kotlin", "percent": 25 },
+    { "name": "Python", "percent": 25 }
   ],
   "team" : "GSM-AING, DEF, ···",
   "favorite": {
