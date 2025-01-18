@@ -20,7 +20,7 @@ Lee.**
     { "name": "Kotlin", "percent": 25 },
     { "name": "Python", "percent": 25 }
   ],
-  "team" : "GSM-AING, DEF, ···",
+  "team" : "AING, DEF, ···",
   "favorite": {
     "cat": "🐈"
   }
