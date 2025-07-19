@@ -5,7 +5,7 @@
 **Jihyuk\
 Lee.**
 
-19yo & Server Platform Engineer.\
+19 y.o & Server Platform Engineer.\
 ✉️ <s23066@gsm.hs.kr>
 
 ---
@@ -17,7 +17,8 @@ Lee.**
   "locale": "ko-KR, Korea",
   "preferLanguages": [
     { "name": "Kotlin", "percent": 50 },
-    { "name": "TypeScript", "percent": 50 }
+    { "name": "Dart", "percent": 25 },
+    { "name": "TypeScript", "percent": 25 },
   ],
   "team" : "AING, One/s ···",
   "favorite": {
