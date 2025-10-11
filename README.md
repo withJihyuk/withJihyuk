@@ -20,7 +20,8 @@ Lee.**
     { "name": "Dart", "percent": 25 },
     { "name": "TypeScript", "percent": 25 },
   ],
-  "team" : "AING, One/s ···",
+  "team" : "AING, Feather-IT ···",
+  "operatingNetwork": "AS216042",
   "favorite": {
     "cat": "🐈"
   }
