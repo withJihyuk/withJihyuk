@@ -38,16 +38,16 @@ Lee.**
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-985.49%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-987.28%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
 🌞 아침                     1453 commits        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌆 낮　                     1772 commits        ████████░░░░░░░░░░░░░░░░░   32.63 % 
-🌃 저녁                     1805 commits        ████████░░░░░░░░░░░░░░░░░   33.24 % 
+🌆 낮　                     1772 commits        ████████░░░░░░░░░░░░░░░░░   32.62 % 
+🌃 저녁                     1806 commits        ████████░░░░░░░░░░░░░░░░░   33.25 % 
 🌙 밤　                     401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 
@@ -73,7 +73,7 @@ Mac                      16 hrs 9 mins       ███████████�
 ```
 
 
- Last Updated on 23/01/2026 19:01:43 UTC
+ Last Updated on 24/01/2026 18:55:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
