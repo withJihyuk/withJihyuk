@@ -5,7 +5,7 @@
 **Jihyuk\
 Lee.**
 
-19 y.o & Server Platform Engineer.\
+20 y.o & Server Platform Engineer.\
 ✉️ <s23066@gsm.hs.kr>
 
 ---
@@ -20,8 +20,7 @@ Lee.**
     { "name": "Dart", "percent": 25 },
     { "name": "TypeScript", "percent": 25 },
   ],
-  "team" : "AING, Feather-IT ···",
-  "operatingNetwork": "AS216042",
+  "team" : "Square-KR, AING ···",
   "favorite": {
     "cat": "🐈"
   }
