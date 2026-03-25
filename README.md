@@ -37,7 +37,7 @@ Lee.**
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.47%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -57,22 +57,21 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.60 % 
-Python                   2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Markdown                 2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+TypeScript               3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.63 % 
+Markdown                 1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Python                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Bash                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 🔥 에디터들: 
-VS Code                  11 hrs 49 mins      █████████████████████████   99.03 % 
-IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+VS Code                  8 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      11 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/03/2026 19:39:20 UTC
+ Last Updated on 25/03/2026 19:28:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
