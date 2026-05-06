@@ -57,22 +57,22 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Kotlin                   5 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Other                    3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-TypeScript               2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Java Properties          1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Kotlin                   4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+Other                    3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+TypeScript               3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Java Properties          1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Docker                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔥 에디터들: 
-VS Code                  8 hrs 43 mins       █████████████░░░░░░░░░░░░   52.08 % 
-IntelliJ IDEA            8 hrs 1 min         ████████████░░░░░░░░░░░░░   47.92 % 
+VS Code                  8 hrs 27 mins       ██████████████░░░░░░░░░░░   57.57 % 
+IntelliJ IDEA            6 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.43 % 
 
 💻 운영 체제들: 
-Mac                      16 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2026 20:01:12 UTC
+ Last Updated on 06/05/2026 20:13:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
