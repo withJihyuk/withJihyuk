@@ -37,17 +37,17 @@ Lee.**
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C331%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.26%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1549 commits        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-🌆 낮　                     1968 commits        ████████░░░░░░░░░░░░░░░░░   33.73 % 
-🌃 저녁                     1884 commits        ████████░░░░░░░░░░░░░░░░░   32.29 % 
-🌙 밤　                     434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+🌞 아침                     1548 commits        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+🌆 낮　                     1969 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
+🌃 저녁                     1882 commits        ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌙 밤　                     442 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 
 
@@ -57,22 +57,22 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Kotlin                   4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Other                    4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-TypeScript               3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Dart                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Java Properties          1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Kotlin                   4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Other                    3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+TypeScript               2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Dart                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Java Properties          1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 🔥 에디터들: 
-VS Code                  11 hrs 12 mins      ████████████████░░░░░░░░░   62.16 % 
-IntelliJ IDEA            6 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.84 % 
+VS Code                  11 hrs 22 mins      █████████████████░░░░░░░░   66.10 % 
+IntelliJ IDEA            5 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
 
 💻 운영 체제들: 
-Mac                      18 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      17 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2026 20:05:51 UTC
+ Last Updated on 08/05/2026 19:57:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
