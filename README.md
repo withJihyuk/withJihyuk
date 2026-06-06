@@ -37,12 +37,43 @@ Lee.**
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C378%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C380%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.22%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
+**저는 아침형 인간이에요. 🐤** 
 
- Last Updated on 05/06/2026 20:30:07 UTC
+```text
+🌞 아침                     1491 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌆 낮　                     1847 commits        ████████░░░░░░░░░░░░░░░░░   33.11 % 
+🌃 저녁                     1803 commits        ████████░░░░░░░░░░░░░░░░░   32.32 % 
+🌙 밤　                     438 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+Python                   2 hrs 13 mins       █████████████░░░░░░░░░░░░   53.68 % 
+TOML                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+TSConfig                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+
+🔥 에디터들: 
+Codex CLI                2 hrs 37 mins       ████████████████░░░░░░░░░   63.31 % 
+VS Code                  1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   35.14 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+
+💻 운영 체제들: 
+Mac                      4 hrs 8 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 06/06/2026 19:57:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
