@@ -37,17 +37,17 @@ Lee.**
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.12%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.13%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1469 commits        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌆 낮　                     1826 commits        ████████░░░░░░░░░░░░░░░░░   33.15 % 
-🌃 저녁                     1770 commits        ████████░░░░░░░░░░░░░░░░░   32.14 % 
-🌙 밤　                     443 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+🌞 아침                     1471 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+🌆 낮　                     1840 commits        ████████░░░░░░░░░░░░░░░░░   33.26 % 
+🌃 저녁                     1772 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
+🌙 밤　                     449 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 ```
 
 
@@ -57,23 +57,23 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Kotlin                   5 hrs 45 mins       ███████████░░░░░░░░░░░░░░   43.90 % 
-Markdown                 3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-Python                   1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Kotlin                   7 hrs 59 mins       ███████████████░░░░░░░░░░   60.80 % 
+Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+SQL                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 에디터들: 
-Codex CLI                10 hrs 8 mins       ███████████████████░░░░░░   77.21 % 
-IntelliJ IDEA            2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-VS Code                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Codex CLI                9 hrs 35 mins       ██████████████████░░░░░░░   73.01 % 
+IntelliJ IDEA            3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 💻 운영 체제들: 
-Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/06/2026 20:33:11 UTC
+ Last Updated on 01/07/2026 20:27:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
