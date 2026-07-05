@@ -37,7 +37,7 @@ Lee.**
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C411%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C412%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.12%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -57,23 +57,22 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Kotlin                   4 hrs 16 mins       ███████████████░░░░░░░░░░   60.91 % 
-Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-SQL                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Kotlin                   4 hrs               ██████████████████░░░░░░░   71.66 % 
+Markdown                 57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+SQL                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 에디터들: 
-Codex CLI                4 hrs 48 mins       █████████████████░░░░░░░░   68.54 % 
-IntelliJ IDEA            2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.01 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Codex CLI                3 hrs 38 mins       ████████████████░░░░░░░░░   65.21 % 
+IntelliJ IDEA            1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   34.79 % 
 
 💻 운영 체제들: 
-Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2026 19:47:55 UTC
+ Last Updated on 05/07/2026 19:54:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
