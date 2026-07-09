@@ -37,7 +37,7 @@ Lee.**
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C413%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.12%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -57,23 +57,23 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.25 % 
-Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Kotlin                   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Python                   1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   34.63 % 
+Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Kotlin                   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🔥 에디터들: 
-Codex CLI                3 hrs 53 mins       ████████████████████░░░░░   78.21 % 
-VS Code                  41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-IntelliJ IDEA            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Codex CLI                3 hrs 59 mins       ████████████████████░░░░░   78.59 % 
+VS Code                  41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+IntelliJ IDEA            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/07/2026 20:08:14 UTC
+ Last Updated on 09/07/2026 20:23:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
