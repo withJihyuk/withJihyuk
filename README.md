@@ -59,46 +59,46 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
-Markdown                 3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-JSON                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Kotlin                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+TypeScript               4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.94 % 
+Markdown                 2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+JSON                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 에디터들: 
-Codex CLI                12 hrs 49 mins      ████████████████████░░░░░   80.94 % 
-VS Code                  2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-IntelliJ IDEA            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Codex CLI                8 hrs 24 mins       ████████████████████░░░░░   80.16 % 
+VS Code                  1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 💻 운영 체제들: 
-Mac                      15 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 17 mins (96.42%)
+⏱ AI Coding Time: 10 hrs (95.45%)
 
-✍️ 24,028 lines written by AI, 190 lines written by hand (99.22% AI-written)
+✍️ 16,467 lines written by AI, 145 lines written by hand (99.13% AI-written)
 
-🔤 302,493,396 Input Tokens, 1,899,645 Output Tokens
+🔤 176,045,171 Input Tokens, 1,201,883 Output Tokens
 
-💵 $1503.64 Estimated AI Cost This Week
+💵 $888.56 Estimated AI Cost This Week
 
-🧠 67 AI Sessions, 225 AI Prompts
+🧠 37 AI Sessions, 135 AI Prompts
 
-GPT                      25,538 lines        █████████████████████████   100.00 % 
+GPT                      17,428 lines        █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.22% of written lines came from AI
-📚 Verbose Prompter — average 1,736 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.94% of changed lines were hand-edited
+🤖 AI-Driven — 99.13% of written lines came from AI
+📚 Verbose Prompter — average 1,755 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.98% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 19:55:57 UTC
+ Last Updated on 30/07/2026 20:06:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
