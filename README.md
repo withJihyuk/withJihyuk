@@ -47,8 +47,8 @@ Lee.**
 
 ```text
 🌞 아침                     1404 commits        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-🌆 낮　                     1752 commits        ████████░░░░░░░░░░░░░░░░░   32.72 % 
-🌃 저녁                     1746 commits        ████████░░░░░░░░░░░░░░░░░   32.61 % 
+🌆 낮　                     1754 commits        ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌃 저녁                     1743 commits        ████████░░░░░░░░░░░░░░░░░   32.56 % 
 🌙 밤　                     453 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 ```
 
@@ -59,46 +59,46 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.94 % 
-Markdown                 2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-JSON                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+TypeScript               6 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.17 % 
+Markdown                 3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 에디터들: 
-Codex CLI                8 hrs 24 mins       ████████████████████░░░░░   80.16 % 
-VS Code                  1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Codex CLI                10 hrs 22 mins      ███████████████████░░░░░░   77.30 % 
+VS Code                  2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 운영 체제들: 
-Mac                      10 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs (95.45%)
+⏱ AI Coding Time: 12 hrs 33 mins (93.65%)
 
-✍️ 16,467 lines written by AI, 145 lines written by hand (99.13% AI-written)
+✍️ 20,480 lines written by AI, 157 lines written by hand (99.24% AI-written)
 
-🔤 176,045,171 Input Tokens, 1,201,883 Output Tokens
+🔤 252,481,497 Input Tokens, 1,758,750 Output Tokens
 
-💵 $888.56 Estimated AI Cost This Week
+💵 $1197.63 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 135 AI Prompts
+🧠 61 AI Sessions, 199 AI Prompts
 
-GPT                      17,428 lines        █████████████████████████   100.00 % 
+GPT                      22,342 lines        █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.13% of written lines came from AI
-📚 Verbose Prompter — average 1,755 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.98% of changed lines were hand-edited
+🤖 AI-Driven — 99.24% of written lines came from AI
+📚 Verbose Prompter — average 1,503 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.85% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 20:06:53 UTC
+ Last Updated on 31/07/2026 20:06:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
