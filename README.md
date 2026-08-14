@@ -37,9 +37,9 @@ Lee.**
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C472%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C472%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-244%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.07%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -59,45 +59,45 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               4 hrs 3 mins        ██████████████████░░░░░░░   70.12 % 
-Other                    1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript               3 hrs 39 mins       █████████████████░░░░░░░░   67.18 % 
+Other                    1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 에디터들: 
-Codex CLI                5 hrs 11 mins       ██████████████████████░░░   89.59 % 
-VS Code                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Codex CLI                5 hrs 14 mins       ████████████████████████░   96.38 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 20 mins (92.22%)
+⏱ AI Coding Time: 5 hrs 23 mins (98.84%)
 
-✍️ 4,046 lines written by AI, 88 lines written by hand (97.87% AI-written)
+✍️ 4,046 lines written by AI, 5 lines written by hand (99.88% AI-written)
 
-🔤 79,127,145 Input Tokens, 505,113 Output Tokens
+🔤 77,511,342 Input Tokens, 524,090 Output Tokens
 
-💵 $428.41 Estimated AI Cost This Week
+💵 $426.68 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 91 AI Prompts
+🧠 23 AI Sessions, 89 AI Prompts
 
 GPT                      4,894 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.87% of written lines came from AI
-📚 Verbose Prompter — average 1,667 characters per prompt
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 1,520 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.58% of changed lines were hand-edited
+🚀 High AI Trust — 2.47% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 19:37:28 UTC
+ Last Updated on 14/08/2026 19:32:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
