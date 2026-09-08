@@ -37,19 +37,19 @@ Lee.**
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C504%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-276%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-279%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.08%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.22%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1250 commits        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-🌆 낮　                     1527 commits        ████████░░░░░░░░░░░░░░░░░   32.01 % 
-🌃 저녁                     1560 commits        ████████░░░░░░░░░░░░░░░░░   32.70 % 
-🌙 밤　                     434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+🌞 아침                     1422 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌆 낮　                     1801 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌃 저녁                     1838 commits        ████████░░░░░░░░░░░░░░░░░   33.09 % 
+🌙 밤　                     493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 ```
 
 
@@ -59,48 +59,48 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-Markdown                 2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-Bash                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Dart                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+TypeScript               2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Markdown                 2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Dart                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Bash                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 
 🔥 에디터들: 
-Codex CLI                7 hrs 51 mins       █████████████████░░░░░░░░   67.84 % 
-VS Code                  3 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.75 % 
-Codex Exec               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Codex CLI                8 hrs 49 mins       ████████████████░░░░░░░░░   65.04 % 
+VS Code                  4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
+Codex Exec               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 운영 체제들: 
-Mac                      11 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 2 mins (86.67%)
+⏱ AI Coding Time: 11 hrs 15 mins (82.99%)
 
-✍️ 2,506 lines written by AI, 114 lines written by hand (95.65% AI-written)
+✍️ 2,504 lines written by AI, 182 lines written by hand (93.22% AI-written)
 
-🔤 21,452,359 Input Tokens, 873,173 Output Tokens
+🔤 21,441,969 Input Tokens, 906,753 Output Tokens
 
-💵 $272.21 Estimated AI Cost This Week
+💵 $312.00 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 88 AI Prompts
+🧠 39 AI Sessions, 104 AI Prompts
 
-GPT                      2,567 lines         █████████████████████████   100.00 % 
+GPT                      2,548 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Open                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.65% of written lines came from AI
-📚 Verbose Prompter — average 3,051 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.89% of changed lines were hand-edited
+🤖 AI-Driven — 93.22% of written lines came from AI
+📚 Verbose Prompter — average 2,712 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 8.05% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 21:46:03 UTC
+ Last Updated on 08/09/2026 21:22:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
