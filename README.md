@@ -41,15 +41,15 @@ Lee.**
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.28%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.36%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1514 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-🌆 낮　                     1935 commits        ████████░░░░░░░░░░░░░░░░░   32.56 % 
-🌃 저녁                     1972 commits        ████████░░░░░░░░░░░░░░░░░   33.19 % 
-🌙 밤　                     521 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+🌞 아침                     1604 commits        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+🌆 낮　                     2075 commits        ████████░░░░░░░░░░░░░░░░░   32.66 % 
+🌃 저녁                     2120 commits        ████████░░░░░░░░░░░░░░░░░   33.36 % 
+🌙 밤　                     555 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 ```
 
 
@@ -59,45 +59,45 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Markdown                 1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Dart                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Bash                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Dart                     3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+TypeScript               2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Markdown                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+MDX                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Other                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🔥 에디터들: 
-Codex CLI                8 hrs 39 mins       █████████████████░░░░░░░░   68.15 % 
-VS Code                  4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.85 % 
+Codex CLI                11 hrs 24 mins      ███████████████████░░░░░░   75.24 % 
+VS Code                  3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
 
 💻 운영 체제들: 
-Mac                      12 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 23 mins (81.83%)
+⏱ AI Coding Time: 12 hrs 53 mins (85.0%)
 
-✍️ 2,318 lines written by AI, 181 lines written by hand (92.76% AI-written)
+✍️ 3,161 lines written by AI, 183 lines written by hand (94.53% AI-written)
 
-🔤 5,627,377 Input Tokens, 772,609 Output Tokens
+🔤 10,034,231 Input Tokens, 1,273,132 Output Tokens
 
-💵 $252.97 Estimated AI Cost This Week
+💵 $549.64 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 95 AI Prompts
+🧠 30 AI Sessions, 146 AI Prompts
 
-GPT                      2,362 lines         █████████████████████████   100.00 % 
+GPT                      3,190 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.76% of written lines came from AI
-📄 Detailed Prompter — average 1,132 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.59% of changed lines were hand-edited
+🤖 AI-Driven — 94.53% of written lines came from AI
+📄 Detailed Prompter — average 988 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 6.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 21:09:20 UTC
+ Last Updated on 10/09/2026 21:09:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
