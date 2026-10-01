@@ -59,48 +59,47 @@ Lee.**
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-HTML                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-C                        54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-JavaScript               48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+HTML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+C                        54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 
 🔥 에디터들: 
-VS Code                  3 hrs 19 mins       ███████████████░░░░░░░░░░   61.76 % 
-Codex CLI                1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Codex Vscode             58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+VS Code                  2 hrs 42 mins       ███████████████░░░░░░░░░░   60.41 % 
+Codex Vscode             1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.18 % 
+Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (50.79%)
+⏱ AI Coding Time: 2 hrs 19 mins (51.89%)
 
-✍️ 2,017 lines written by AI, 381 lines written by hand (84.11% AI-written)
+✍️ 1,975 lines written by AI, 293 lines written by hand (87.08% AI-written)
 
-🔤 1,755,423 Input Tokens, 206,306 Output Tokens
+🔤 1,923,899 Input Tokens, 198,804 Output Tokens
 
-💵 $33.78 Estimated AI Cost This Week
+💵 $23.39 Estimated AI Cost This Week
 
 🧠 9 AI Sessions, 25 AI Prompts
 
-GPT                      2,169 lines         █████████████████████████   99.91 % 
-Codex-Cli                2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+GPT                      2,129 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Jihyuk                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.11% of written lines came from AI
-📄 Detailed Prompter — average 1,492 characters per prompt
+🤖 AI-Driven — 87.08% of written lines came from AI
+📚 Verbose Prompter — average 2,329 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.99% of changed lines were hand-edited
+🚀 High AI Trust — 15.28% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 22:33:20 UTC
+ Last Updated on 01/10/2026 22:54:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
