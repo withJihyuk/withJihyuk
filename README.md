@@ -5,8 +5,8 @@
 **Jihyuk\
 Lee.**
 
-20 y.o & Server Platform Engineer.\
-✉️ <s23066@gsm.hs.kr>
+20 y.o & Researcher & SWE @ Square \
+✉️ <team@sqr.kr>
 
 ---
 
@@ -20,19 +20,12 @@ Lee.**
     { "name": "Dart", "percent": 25 },
     { "name": "TypeScript", "percent": 25 },
   ],
-  "team" : "Square-KR, AING ···",
   "favorite": {
     "cat": "🐈"
   }
 }
 ```
 ---
-<details>
-  <summary>github-profile-trophy (click me)</summary>
-  
-![](https://github-profile-trophy.vercel.app/?username=withJihyuk&row=1&column=8&theme=nord)
-  
-</details>
 <details>
   <summary>github-readme-stats (click me)</summary>
   
