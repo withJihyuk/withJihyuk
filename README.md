@@ -5,7 +5,8 @@
 **Jihyuk\
 Lee.**
 
-20 y.o & Researcher & SWE @ Square \
+20 y.o \
+Researcher & SWE @ Square \
 ✉️ <team@sqr.kr>
 
 ---
