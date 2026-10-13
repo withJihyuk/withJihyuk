@@ -6,7 +6,7 @@
 Lee.**
 
 20 y.o \
-Researcher & SWE @ Square \
+Product Engineer @ Square \
 ✉️ <team@sqr.kr>
 
 ---
