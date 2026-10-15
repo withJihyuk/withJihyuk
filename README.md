@@ -31,7 +31,7 @@ Product Engineer @ Square \
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.02%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -51,23 +51,23 @@ Product Engineer @ Square \
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.51 % 
-Go                       1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-TypeScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Svelte                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-HTML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Markdown                 3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
+Go                       1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+HTML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Git Config               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 🔥 에디터들: 
-Codex Vscode             6 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.44 % 
-VS Code                  5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.01 % 
-Codex CLI                1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Codex Vscode             6 hrs 10 mins       ███████████████░░░░░░░░░░   61.48 % 
+VS Code                  3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
+Codex CLI                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 운영 체제들: 
-Mac                      13 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/10/2026 21:54:59 UTC
+ Last Updated on 15/10/2026 21:41:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
