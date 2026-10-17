@@ -31,16 +31,16 @@ Product Engineer @ Square \
   <summary>github-readme-stats (click me)</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C563%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.02%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1520 commits        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-🌆 낮　                     1993 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
-🌃 저녁                     1951 commits        ████████░░░░░░░░░░░░░░░░░   32.70 % 
+🌞 아침                     1521 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+🌆 낮　                     1995 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
+🌃 저녁                     1951 commits        ████████░░░░░░░░░░░░░░░░░   32.68 % 
 🌙 밤　                     503 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
@@ -51,23 +51,23 @@ Product Engineer @ Square \
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-HTML                     2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Markdown                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Kotlin                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Git Config               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+HTML                     2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+Kotlin                   1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Markdown                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+TypeScript               1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Git Config               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 에디터들: 
-Codex Vscode             5 hrs 23 mins       ████████████████░░░░░░░░░   63.25 % 
-VS Code                  2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.80 % 
-Codex CLI                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Codex Vscode             6 hrs 37 mins       ████████████████░░░░░░░░░   65.53 % 
+VS Code                  3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 운영 체제들: 
-Mac                      8 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/10/2026 21:37:18 UTC
+ Last Updated on 17/10/2026 20:52:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
