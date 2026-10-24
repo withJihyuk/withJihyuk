@@ -51,23 +51,22 @@ Product Engineer @ Square \
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.66 % 
-Swift                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Other                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Bash                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Dart                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Swift                    1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   32.06 % 
+TypeScript               1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Dart                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 🔥 에디터들: 
-Codex Vscode             4 hrs 43 mins       ████████████████░░░░░░░░░   65.14 % 
-VS Code                  2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.79 % 
-Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Codex Vscode             2 hrs 46 mins       ███████████████░░░░░░░░░░   58.61 % 
+VS Code                  1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   41.39 % 
 
 💻 운영 체제들: 
-Mac                      7 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/10/2026 21:36:59 UTC
+ Last Updated on 24/10/2026 21:07:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
