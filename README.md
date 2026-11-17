@@ -51,23 +51,23 @@ Product Engineer @ Square \
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-TypeScript               2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Python                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-HTML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-C                        1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Markdown                 2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Python                   2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+HTML                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Text                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+C                        1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 
 🔥 에디터들: 
-Claude Code              5 hrs 32 mins       █████████████░░░░░░░░░░░░   51.70 % 
-VS Code                  3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.82 % 
-Codex Vscode             1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Claude Code              6 hrs 53 mins       ██████████████░░░░░░░░░░░   57.87 % 
+VS Code                  3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.36 % 
+Codex Vscode             1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 
 💻 운영 체제들: 
-Mac                      10 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/11/2026 23:06:17 UTC
+ Last Updated on 17/11/2026 02:00:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
